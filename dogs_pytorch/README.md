@@ -46,3 +46,5 @@ target = dogfood
 Models:
 lr.pth
 lr_1.pth
+File:
+dogfood.txt
